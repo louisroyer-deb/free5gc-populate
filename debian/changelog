@@ -1,0 +1,5 @@
+free5gc-populate (1.0-1) bookworm; urgency=medium
+
+  * UNOFFICIAL Packaging - Initial release 
+
+ -- Louis Royer <louis.royer@irit.fr>  Wed, 23 Aug 2023 11:00:57 +0200
